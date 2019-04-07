@@ -1,0 +1,12 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "This is a simple project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "https://www.facebook.com/theitaliandevs/",
+  "license": "ISC"
+}
